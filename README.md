@@ -1,6 +1,6 @@
 ## Hi there 👋
-Welcome to RIcapacity repository! Here you will find training materials for RI scientists and for those who wish to become RI scientists. 
-Add your bits of knowledge, so that the repository and lessons can grow!
+Welcome to RIcapacity repository! Here you will find different materials for RI scientists and for those who wish to become RI scientists. 
+Add your bits of knowledge, so that the repositories and lessons can grow!
 
 Get in touch!
 
